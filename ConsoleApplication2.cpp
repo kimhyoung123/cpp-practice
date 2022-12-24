@@ -1,4 +1,4 @@
-﻿//산업경영공학과12210605김형중
+
 #include <iostream>
 #include <string>
 using namespace std;
